@@ -1,1 +1,1 @@
-# devops-demo
+Completed devops-demo from [Lesson 4.4: Cloud Native Application - Local Containerization](https://github.com/su-ntu-sctp/ai-4.4-cloud-native-application-local-containerization/blob/main/lesson.md)
